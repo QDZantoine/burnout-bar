@@ -14,22 +14,22 @@ export function GalleryPreview() {
 
   const images = [
     {
-      src: '/placeholder.svg?height=600&width=800',
+      src: '/images/blind-test.png',
       alt: 'Soirée blindtest au Burnout',
       title: 'Blindtest du mardi',
     },
     {
-      src: '/placeholder.svg?height=600&width=800',
+      src: '/images/beer-pong.png',
       alt: 'Tournoi de Beer Pong',
       title: 'Tournoi Beer Pong',
     },
     {
-      src: '/placeholder.svg?height=600&width=800',
+      src: '/images/karaoke.png',
       alt: 'Karaoké entre amis',
       title: 'Soirée Karaoké',
     },
     {
-      src: '/placeholder.svg?height=600&width=800',
+      src: '/images/console.png',
       alt: 'Espace jeux vidéo',
       title: 'Espace Gaming',
     },
@@ -39,7 +39,7 @@ export function GalleryPreview() {
       title: 'Le Bar',
     },
     {
-      src: '/placeholder.svg?height=600&width=800',
+      src: '/images/just-dance.png',
       alt: 'Soirée spéciale',
       title: 'Événement Spécial',
     },
